@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/order-food/static/css/main.8db0bb76.css",
+    "main.js": "/order-food/static/js/main.8bcdf11e.js",
+    "static/media/BackgroundImg.jpg": "/order-food/static/media/BackgroundImg.0eb26fbec2e8b4d6fde1.jpg",
+    "static/media/Basket-icon.svg": "/order-food/static/media/Basket-icon.b8d33e94afa151b65893c6647ec288c8.svg",
+    "index.html": "/order-food/index.html",
+    "static/media/plus-icon.svg": "/order-food/static/media/plus-icon.f6449d6005345c09378ddf02e862b973.svg",
+    "main.8db0bb76.css.map": "/order-food/static/css/main.8db0bb76.css.map",
+    "main.8bcdf11e.js.map": "/order-food/static/js/main.8bcdf11e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8db0bb76.css",
+    "static/js/main.8bcdf11e.js"
+  ]
+}
